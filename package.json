@@ -1,0 +1,19 @@
+{
+  "name": "testcustommodule",
+  "version": "1.0.0",
+  "description": "Modulo per provare",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescobos/testCustomModule.git"
+  },
+  "author": "Francesco Boschetti - fBoschetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francescobos/testCustomModule/issues"
+  },
+  "homepage": "https://github.com/francescobos/testCustomModule#readme"
+}
