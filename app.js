@@ -1,3 +1,9 @@
-const moduloTest = require('./libs/moduloTest');
+const scrivi = () => {
 
-moduloTest.scrivi();
+    console.log('Sono anche stato aggiornato!');
+}
+
+module.exports = {
+    scrivi
+}
+
